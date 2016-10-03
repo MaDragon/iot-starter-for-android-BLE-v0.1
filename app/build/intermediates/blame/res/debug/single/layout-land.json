@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/tutorial_pagertabs.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/tutorial_pagertabs.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/webview.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/webview.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/tutorial_fragment_c.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/tutorial_fragment_c.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/log_badge.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/log_badge.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/login.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/login.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/profiles.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/profiles.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/iot.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/iot.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/tutorial_fragment_a.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/tutorial_fragment_a.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/log.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/log.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/main.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/main.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/list_item.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/list_item.xml"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/layout-land/tutorial_fragment_b.xml",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/layout-land/tutorial_fragment_b.xml"
+    }
+]

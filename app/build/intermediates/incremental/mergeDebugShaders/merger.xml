@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/debug/shaders"/></dataSet></merger>

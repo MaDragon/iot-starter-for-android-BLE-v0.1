@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_8a0a7a898fea6e873a7cfed465a3d93ea1aacfe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/libs/org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="da5fbfa8088506ea0f3a160adf4396cb3ed4cc8f">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.client.mqttv3_ddd707ccd6458ee3b8b0d2d7b4ec884b011be3bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_ef2a2056c7bfcfc1f8e672f0bd28fb8e4d2ca3ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/libs/org.eclipse.paho.android.service.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="36289fb3b9bb223c35b69449e25a48aef2df756b">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.android.service_4a8699f307218c64e2021a2e736101a5045785ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9ca6d398c14e276377331bd811bd8260c3a0e7d3">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c95706af60d9e551112e50bbc0f90c89d9437479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_8846e6b92b2a263b97f3d527ddd2190a14454574/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_ad6cf9231fce767fed1e7d4558de866f6ce67a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_999b182f1d4fed8b783fb21845b5cf283554dd71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a256977f2bf897c178059b5d4d2e9c7dba6f644d">
+        <dex dex="/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_179a3bed560d3e1ec39430a859bff9af34af309c/classes.dex" />
+    </item>
+
+</items>

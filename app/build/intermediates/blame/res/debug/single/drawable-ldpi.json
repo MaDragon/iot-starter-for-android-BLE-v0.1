@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_icon.png",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/drawable-ldpi/ic_icon.png"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_logo_b.png",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/drawable-ldpi/ic_logo_b.png"
+    },
+    {
+        "merged": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_logo.png",
+        "source": "/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/res/drawable-ldpi/ic_logo.png"
+    }
+]

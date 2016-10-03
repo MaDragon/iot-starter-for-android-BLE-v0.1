@@ -1,0 +1,7 @@
+#Mon Sep 26 14:33:27 CEST 2016
+base.0=/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_179a3bed560d3e1ec39430a859bff9af34af309c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c95706af60d9e551112e50bbc0f90c89d9437479/classes.dex
+base.1=/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c95706af60d9e551112e50bbc0f90c89d9437479
+file.0=/home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_179a3bed560d3e1ec39430a859bff9af34af309c/classes.dex

@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:19:1-75:12
+	package
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:20:11-51
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:22:11-38
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:21:11-34
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:19:11-69
+uses-sdk
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:23:5-73
+MERGED from [com.google.android.gms:play-services:6.5.87] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:23:42-71
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:23:15-41
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:28:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:29:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:30:22-65
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:31:5-69
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:31:22-66
+uses-permission#android.permission.CAMERA
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:32:5-65
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:32:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:34:22-76
+application
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:35:5-74:19
+MERGED from [com.google.android.gms:play-services:6.5.87] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:21.0.3] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:36:13-45
+	android:icon
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:40:13-51
+	android:logo
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:39:13-80
+activity#com.ibm.iot.android.iotstarter.activities.TutorialPagerActivity
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:42:9-45:20
+	android:launchMode
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:44:17-46
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:43:17-65
+activity#com.ibm.iot.android.iotstarter.activities.MainPagerActivity
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:47:9-55:20
+	android:screenOrientation
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:50:17-53
+	android:launchMode
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:49:17-48
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:48:17-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:53:27-74
+activity#com.ibm.iot.android.iotstarter.activities.ProfilesActivity
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:57:9-60:20
+	android:launchMode
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:59:17-46
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:58:17-90
+activity#com.ibm.iot.android.iotstarter.activities.WebActivity
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:62:9-66:20
+	android:launchMode
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:64:17-46
+	android:configChanges
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:65:17-63
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:63:17-85
+meta-data#com.google.android.gms.version
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:68:9-70:73
+MERGED from [com.google.android.gms:play-services:6.5.87] /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:70:17-70
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:69:17-62
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:73:9-80
+	android:name
+		ADDED from /home/zhizhong/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/src/main/AndroidManifest.xml:73:18-77
