@@ -1,5 +1,5 @@
-Add some functions for our experimental purposes.
-Based on IBM IoTStarter GitHub demo example.
+#Add some functions for our experimental purposes.
+#Based on IBM IoTStarter GitHub demo example.
 
 
 
