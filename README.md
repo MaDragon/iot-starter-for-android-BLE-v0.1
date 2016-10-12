@@ -1,3 +1,8 @@
+Add some functions for our experimental purposes.
+Based on IBM IoTStarter GitHub demo example.
+
+
+
 #IoT Starter for Android
 IoT Starter is a demo application for interacting with the IBM Internet of Things (IoT) Foundation.
 The application turns your mobile device into a sensor that publishes and receives data to and from the cloud using the MQTT protocol.
