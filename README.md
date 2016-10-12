@@ -2,7 +2,7 @@
 - add step counter and noise level detection and device movement detection functions to the app
 - upload these data via MQTT protocol
 - add a edittext and button for the propose of sending number of people in the room, should be in differnet MQTT topic but didnt have time to change it
-- some small details
+- some small details.
 Based on IBM IoTStarter GitHub demo example.
 
 
